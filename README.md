@@ -49,7 +49,7 @@ digital-literacy-project/
 ---
 
 ## Links
-- 🔗 Google Form Quiz:
+- 🔗 Google Form Quiz: https://forms.gle/gzUUz55QWv7SVJti6
 
 ---
 
