@@ -20,7 +20,7 @@
 
 8. **Never accept collect requests from unknown contacts** — A collect request is a deduction, not a deposit. Always check who sent it before approving.
 
-## If You Are a Victim 🚨
+## If You Are a Victim 
 
 - Report immediately at the **National Cyber Crime Portal: cybercrime.gov.in**
 - Call the **National Cyber Crime Helpline: 1930** (available 24x7).
